@@ -1,0 +1,14 @@
+
+
+.counter-container{
+	max-width: 200px;
+	background-color: #f1f1f1;
+	border-radius: 30%;
+	margin: auto;
+	text-align: center;
+}
+
+.counter {
+	font-size: 45px;
+	margin: 30px 0;
+}
